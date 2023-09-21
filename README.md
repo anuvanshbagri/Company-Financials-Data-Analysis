@@ -65,7 +65,7 @@ This project addresses the following key problem areas using the company's finan
 
 ## Analysis
 
-Detailed analysis steps and code can be found in the [Jupyter Notebook](notebooks/Company-Financials-Data-Analysis.ipynb).
+Detailed analysis steps and code can be found in the [Jupyter Notebook](/Company-Financials-Data-Analysis.ipynb).
 
 ### How to Use
 
