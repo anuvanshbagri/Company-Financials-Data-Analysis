@@ -132,7 +132,6 @@ Contributions to this project are welcome and encouraged. To get started, follow
 
 10. **Merge Pull Request**: Once your changes are approved, your pull request will be merged into the main project.
 
-Thank you for contributing to this project!
 
 ## Contributors
 
